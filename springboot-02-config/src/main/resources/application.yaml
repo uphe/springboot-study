@@ -1,0 +1,10 @@
+person:
+  name: hzy
+  age: 20
+  happy: true
+  birth: 2020/11/25
+  map: {Java: A, MySQL: B, Linux: C}
+  list: [music, code]
+  dog:
+    name: 旺财
+    age: 3
