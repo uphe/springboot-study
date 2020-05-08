@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea5b8742-5287-4843-8eaf-9f8bd54310b0" name="Default Changelist" comment="" />
+    <list default="true" id="ea5b8742-5287-4843-8eaf-9f8bd54310b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/springboot-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/main/java/com/hzy/Springboot10RedisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/test/java/com/hzy/Springboot10RedisApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-07-mybatis/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07-mybatis/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-07-mybatis/src/test/java/com/hzy/Springboot07MybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07-mybatis/src/test/java/com/hzy/Springboot07MybatisApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -14,28 +36,26 @@
         <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1YKdYcd3pH1gWVYSGGdO6roQG7n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-09-shiro/src/main/resources/templates" />
@@ -50,23 +70,7 @@
       <recent name="E:\IdeaProjects\springboot-study\springboot-09-shiro\src\main\java\com\hzy\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot09ShiroApplication">
-    <configuration name="Springboot06JdbcApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-06-jdbc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hzy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hzy" />
-      <option name="MAIN_CLASS_NAME" value="com.hzy.Springboot06JdbcApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Springboot10RedisApplicationTests.contextLoads">
     <configuration name="Springboot07MybatisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-07-mybatis" />
       <extension name="coverage">
@@ -113,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springboot09ShiroApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-09-shiro" />
+    <configuration name="Springboot10RedisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-10-redis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hzy.*" />
@@ -122,7 +126,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hzy" />
-      <option name="MAIN_CLASS_NAME" value="com.hzy.Springboot09ShiroApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.hzy.Springboot10RedisApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10RedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-10-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzy" />
+      <option name="MAIN_CLASS_NAME" value="com.hzy.Springboot10RedisApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -192,13 +211,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot10RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-10-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hzy.Springboot10RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Springboot09ShiroApplicationTests" />
-        <item itemvalue="JUnit.Springboot09ShiroApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot07MybatisApplicationTests" />
+        <item itemvalue="JUnit.Springboot10RedisApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot10RedisApplicationTests" />
         <item itemvalue="JUnit.Springboot07MybatisApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot06JdbcApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot07MybatisApplicationTests" />
+        <item itemvalue="JUnit.Springboot09ShiroApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -214,33 +240,40 @@
       <updated>1582695268642</updated>
       <workItem from="1582695269902" duration="306000" />
       <workItem from="1582695614359" duration="5421000" />
+      <workItem from="1583464876196" duration="191000" />
+      <workItem from="1583465928176" duration="236000" />
+      <workItem from="1586322744797" duration="21000" />
+      <workItem from="1588898650857" duration="3501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582697764507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582697764507" />
-    <state width="1493" height="298" key="GridCell.Tab.0.bottom" timestamp="1582701040483">
+    <state width="1493" height="298" key="GridCell.Tab.0.bottom" timestamp="1588900580368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582701040483" />
-    <state width="1493" height="298" key="GridCell.Tab.0.center" timestamp="1582701040483">
+    <state width="1493" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
+    <state width="1493" height="298" key="GridCell.Tab.0.center" timestamp="1588900580368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582701040483" />
-    <state width="1493" height="298" key="GridCell.Tab.0.left" timestamp="1582701040483">
+    <state width="1493" height="298" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
+    <state width="1493" height="298" key="GridCell.Tab.0.left" timestamp="1588900580368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582701040483" />
-    <state width="1493" height="298" key="GridCell.Tab.0.right" timestamp="1582701040483">
+    <state width="1493" height="298" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
+    <state width="1493" height="298" key="GridCell.Tab.0.right" timestamp="1588900580368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582701040483" />
+    <state width="1493" height="298" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
     <state width="1493" height="263" key="GridCell.Tab.1.bottom" timestamp="1582701040481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -257,9 +290,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="263" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582701040481" />
-    <state x="178" y="107" key="new project wizard" timestamp="1582699924390">
+    <state x="330" y="78" key="new project wizard" timestamp="1588898729691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582699924390" />
+    <state x="330" y="78" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588898729691" />
   </component>
 </project>

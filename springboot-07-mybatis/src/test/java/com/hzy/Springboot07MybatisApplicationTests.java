@@ -15,10 +15,12 @@ class Springboot07MybatisApplicationTests {
     @Autowired
     UserMapper userMapper;
     @Test
-    void contextLoads() throws SQLException {
-        List<User> users = userMapper.queryAllUser();
-        for (User user : users) {
-            System.out.println(user);
-        }
+    void contextLoads() {
+        System.out.println(userMapper.queryUserById(1));
+
+//        List<User> users = userMapper.queryAllUser();
+//        for (User user : users) {
+//            System.out.println(user);
+//        }
     }
 }
