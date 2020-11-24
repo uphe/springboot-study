@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/springboot-08-springsecurity/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-09-shiro/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-10-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-actuator/pom.xml" />
       </list>
     </option>
   </component>

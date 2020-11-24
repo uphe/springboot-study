@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea5b8742-5287-4843-8eaf-9f8bd54310b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/springboot-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/main/java/com/hzy/Springboot10RedisApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-redis/src/test/java/com/hzy/Springboot10RedisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/src/main/java/com/hzy/Springboot11ActuatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-actuator/src/test/java/com/hzy/Springboot11ActuatorApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-07-mybatis/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07-mybatis/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-07-mybatis/src/test/java/com/hzy/Springboot07MybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07-mybatis/src/test/java/com/hzy/Springboot07MybatisApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,7 @@
       <recent name="E:\IdeaProjects\springboot-study\springboot-09-shiro\src\main\java\com\hzy\config" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Springboot10RedisApplicationTests.contextLoads">
+  <component name="RunManager" selected="Spring Boot.Springboot11ActuatorApplication">
     <configuration name="Springboot07MybatisApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-07-mybatis" />
       <extension name="coverage">
@@ -218,6 +215,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot11ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-11-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hzy.Springboot11ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Springboot10RedisApplicationTests.contextLoads" />
@@ -244,6 +248,7 @@
       <workItem from="1583465928176" duration="236000" />
       <workItem from="1586322744797" duration="21000" />
       <workItem from="1588898650857" duration="3501000" />
+      <workItem from="1606210872996" duration="1491000" />
     </task>
     <servers />
   </component>
@@ -254,45 +259,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582697764507">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1606211408941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582697764507" />
-    <state width="1493" height="298" key="GridCell.Tab.0.bottom" timestamp="1588900580368">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606211408941" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1606211408941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
-    <state width="1493" height="298" key="GridCell.Tab.0.center" timestamp="1588900580368">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606211408941" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1606211408941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
-    <state width="1493" height="298" key="GridCell.Tab.0.left" timestamp="1588900580368">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606211408941" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1606211408941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
-    <state width="1493" height="298" key="GridCell.Tab.0.right" timestamp="1588900580368">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606211408941" />
+    <state x="401" y="73" key="new project wizard" timestamp="1606211161112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="298" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588900580368" />
-    <state width="1493" height="263" key="GridCell.Tab.1.bottom" timestamp="1582701040481">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="263" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582701040481" />
-    <state width="1493" height="263" key="GridCell.Tab.1.center" timestamp="1582701040481">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="263" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582701040481" />
-    <state width="1493" height="263" key="GridCell.Tab.1.left" timestamp="1582701040481">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="263" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582701040481" />
-    <state width="1493" height="263" key="GridCell.Tab.1.right" timestamp="1582701040481">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="263" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582701040481" />
-    <state x="330" y="78" key="new project wizard" timestamp="1588898729691">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="330" y="78" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588898729691" />
+    <state x="401" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606211161112" />
   </component>
 </project>

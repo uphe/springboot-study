@@ -6,17 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-11-actuator" />
         <module name="springboot-05-springmvc" />
         <module name="springboot-03-web" />
         <module name="springboot-06-jdbc" />
         <module name="springboot-02-config" />
         <module name="springboot-01-helloworld" />
         <module name="springboot-study" />
-        <module name="springboot-10-redis" />
+        <module name="springboot-08-springsecurity" />
         <module name="springboot-09-shiro" />
         <module name="springboot-04-thymeleaf" />
         <module name="springboot-07-mybatis" />
-        <module name="springboot-08-springsecurity" />
+        <module name="springboot-10-redis" />
       </profile>
     </annotationProcessing>
   </component>
@@ -32,6 +33,7 @@
       <module name="springboot-08-springsecurity" options="-parameters" />
       <module name="springboot-09-shiro" options="-parameters" />
       <module name="springboot-10-redis" options="-parameters" />
+      <module name="springboot-11-actuator" options="-parameters" />
     </option>
   </component>
 </project>
