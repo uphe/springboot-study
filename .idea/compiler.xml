@@ -13,11 +13,11 @@
         <module name="springboot-02-config" />
         <module name="springboot-01-helloworld" />
         <module name="springboot-study" />
-        <module name="springboot-08-springsecurity" />
+        <module name="springboot-10-redis" />
         <module name="springboot-09-shiro" />
         <module name="springboot-04-thymeleaf" />
         <module name="springboot-07-mybatis" />
-        <module name="springboot-10-redis" />
+        <module name="springboot-08-springsecurity" />
       </profile>
     </annotationProcessing>
   </component>
