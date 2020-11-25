@@ -12,6 +12,8 @@
     <file url="file://$PROJECT_DIR$/springboot-09-shiro/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-10-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-11-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-12-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-admin-client/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

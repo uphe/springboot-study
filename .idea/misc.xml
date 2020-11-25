@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/springboot-09-shiro/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-10-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-11-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-admin-client/pom.xml" />
       </list>
     </option>
   </component>
