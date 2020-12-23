@@ -26,7 +26,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-12-admin" target="1.8" />
-      <module name="springboot-14-springwebflux" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

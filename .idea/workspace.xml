@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea5b8742-5287-4843-8eaf-9f8bd54310b0" name="Default Changelist" comment="add webflux and update springboot version">
+    <list default="true" id="ea5b8742-5287-4843-8eaf-9f8bd54310b0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -10,27 +10,8 @@
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/src/main/java/com/hzy/Springboot14SpringwebfluxApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/src/main/java/com/hzy/controller/MyController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springboot-14-springwebflux/src/test/java/com/hzy/Springboot14SpringwebfluxApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-02-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-03-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-04-thymeleaf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-thymeleaf/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-05-springmvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-05-springmvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-06-jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-jdbc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-07-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-08-springsecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-springsecurity/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-09-shiro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-09-shiro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-10-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-10-redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-11-actuator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-11-actuator/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-12-admin-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-12-admin-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-13-admin-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-13-admin-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-13-admin-client/src/test/java/com/hzy/Springboot13AdminClientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-13-admin-client/src/test/java/com/hzy/Springboot13AdminClientApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,12 +195,31 @@
       <workItem from="1606267083246" duration="2185000" />
       <workItem from="1606284828148" duration="3606000" />
       <workItem from="1606295283524" duration="1832000" />
-      <workItem from="1608689566056" duration="1788000" />
+      <workItem from="1608689566056" duration="2138000" />
     </task>
+    <task id="LOCAL-00001" summary="add webflux and update springboot version">
+      <created>1608691590824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608691590824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -231,10 +231,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608691005412" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1608691113774">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1608691588606">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608691113774" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608691588606" />
     <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1608690201817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -283,13 +283,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="217" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608690201818" />
+    <state x="403" y="114" key="RollbackChangesDialog" timestamp="1608691490227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608691490227" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606269567199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606269567199" />
-    <state x="401" y="73" key="new project wizard" timestamp="1608689677394">
+    <state x="401" y="73" key="new project wizard" timestamp="1608691672350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="401" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608689677394" />
+    <state x="401" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608691672350" />
   </component>
 </project>
