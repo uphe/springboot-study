@@ -11,6 +11,7 @@
         <module name="springboot-01-helloworld" />
         <module name="springboot-10-redis" />
         <module name="springboot-08-springsecurity" />
+        <module name="springboot-14-springwebflux" />
         <module name="springboot-11-actuator" />
         <module name="springboot-03-web" />
         <module name="springboot-06-jdbc" />
@@ -25,6 +26,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-12-admin" target="1.8" />
+      <module name="springboot-14-springwebflux" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -43,6 +45,7 @@
       <module name="springboot-12-admin" options="-parameters" />
       <module name="springboot-12-admin-server" options="-parameters" />
       <module name="springboot-13-admin-client" options="-parameters" />
+      <module name="springboot-14-springwebflux" options="-parameters" />
     </option>
   </component>
 </project>
