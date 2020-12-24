@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
+import java.time.Duration;
+import java.time.temporal.ChronoUnit;
+import java.util.Optional;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 
@@ -32,6 +35,10 @@ public class MyController {
      */
     @GetMapping("/mono")
     public Mono<String> mono() {
+        Mono.fromSupplier(() -> "Hello").subscribe(System.out::println);
+        Mono.justOrEmpty(Optional.of("Hello")).subscribe(System.out::println);
+        Mono.create(sink -> sink.success("Hello")).subscribe(System.out::println);
+
         long timeMillis = System.currentTimeMillis();
         log.info("webflux() start");
         Mono<String> result = Mono.fromSupplier(this::createStr);
@@ -45,6 +52,13 @@ public class MyController {
      */
     @GetMapping(value = "/flux", produces = MediaType.TEXT_EVENT_STREAM_VALUE)
     public Flux<String> flux() {
+
+        Flux.just("Hello", "World").subscribe(System.out::println);
+        Flux.fromArray(new Integer[] {1, 2, 3}).subscribe(System.out::println);
+        Flux.empty().subscribe(System.out::println);
+        Flux.range(1, 10).subscribe(System.out::println);
+        Flux.interval(Duration.of(10, ChronoUnit.SECONDS)).subscribe(System.out::println);
+
         long timeMillis = System.currentTimeMillis();
         log.info("webflux() start");
         Flux<String> result = Flux.fromStream(IntStream.range(1, 5).mapToObj(i -> {
