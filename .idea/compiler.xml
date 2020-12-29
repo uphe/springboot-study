@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-02-config" />
+        <module name="springboot-15-annotation" />
         <module name="springboot-13-admin-client" />
         <module name="springboot-01-helloworld" />
         <module name="springboot-10-redis" />
         <module name="springboot-08-springsecurity" />
-        <module name="springboot-14-springwebflux" />
         <module name="springboot-11-actuator" />
         <module name="springboot-03-web" />
+        <module name="springboot-04-thymeleaf" />
         <module name="springboot-06-jdbc" />
         <module name="springboot-09-shiro" />
         <module name="springboot-study" />
@@ -21,7 +22,7 @@
         <module name="springboot-05-springmvc" />
         <module name="springboot-07-mybatis" />
         <module name="springboot-12-admin" />
-        <module name="springboot-04-thymeleaf" />
+        <module name="springboot-14-springwebflux" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,6 +46,7 @@
       <module name="springboot-12-admin-server" options="-parameters" />
       <module name="springboot-13-admin-client" options="-parameters" />
       <module name="springboot-14-springwebflux" options="-parameters" />
+      <module name="springboot-15-annotation" options="-parameters" />
     </option>
   </component>
 </project>

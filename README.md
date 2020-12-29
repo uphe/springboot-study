@@ -11,3 +11,6 @@
 
 ## springboot-14-springwebflux
 该项目是Spring2.x基于Spring5的新特性，其基于Spring官方的Reactor实现，是一种响应式的编程
+
+## springboot-15-annotation
+该demo是自定义注解

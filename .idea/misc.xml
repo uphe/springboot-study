@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/springboot-12-admin-server/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-13-admin-client/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-14-springwebflux/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-annotation/pom.xml" />
       </list>
     </option>
   </component>
